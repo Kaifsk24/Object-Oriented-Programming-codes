@@ -72,7 +72,8 @@ It is designed to build a strong foundation in object-oriented design and improv
 
 ## 👨‍💻 Author
 
-**Rehan Nadaf**
+**Kaif Shaikh**
+
 
 ---
 
